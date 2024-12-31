@@ -1,16 +1,25 @@
-### Hi there 👋 My name is Rocío, welcome to my GitHub! 
+### 👋 ¡Hola! Soy Rocío.
 
-<!--
-**Roxiny27/Roxiny27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por aprender nuevas tecnologías. Me encanta trabajar en proyectos que combinan creatividad y funcionalidad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y Herramientas
+- Lenguajes: JavaScript, Java
+- Frameworks: React, Node.js
+- Herramientas: Git, Docker, VS Code
+
+---
+
+### 💡 Intereses
+- Desarrollo de aplicaciones web.
+- Inteligencia artificial y aprendizaje automático.
+
+
+---
+
+### 🤝 Conectemos
+- 💼 [LinkedIn](https://www.linkedin.com/in/rocio-pati%C3%B1o-g%C3%B3mez-790365110/))
+
+
+¡Siempre estoy buscando nuevos desafíos y oportunidades para colaborar!
